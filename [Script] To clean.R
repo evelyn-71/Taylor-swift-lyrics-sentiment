@@ -2,9 +2,6 @@
 # PROJECT: ANALYSING TAYLOR SWIFT DISCOGRAPHY -----------------------------------------------------------
 
 # LOG CHANGES -------------------------------------------------------------
-# date started: "24 March 2024"
-# 24 - 26 March / 2 April: Data cleaning the stoud albums
-# 5 April 2024: Finally managed to export everything to Excel workbook
 
 # Section A: Data loading and libraries -----------------------------------
 setwd("/Users/evelyn/#/Projects/R_Taylor Swift")
